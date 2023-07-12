@@ -57,10 +57,6 @@ The results of the analysis will be presented in the Jupyter Notebook, along wit
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or additional analyses that could enhance the exploration of e-commerce sales data, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, or distribute the code and analysis as per the terms of the license.
-
 ## Contact
 
 If you have any questions or inquiries about this exploratory data analysis, please feel free to contact Aditya Singh at adi2001.mahan@gmail.com.
